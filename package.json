@@ -1,6 +1,6 @@
 {
 	"name": "yoga-layout-prebuilt",
-	"version": "1.10.0-fork",
+	"version": "1.10.0",
 	"description": "Prebuilt yoga-layout package",
 	"license": "MIT",
 	"repository": "vadimdemedes/yoga-layout-prebuilt",
